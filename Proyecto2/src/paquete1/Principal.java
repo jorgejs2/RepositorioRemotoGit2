@@ -5,5 +5,7 @@ public class Principal {
 	System.out.println("Hola");
 	System.out.println("Escrito desde la primera rama");
 	System.out.println("Antes del merge");
+	System.out.println("Escrito desde la segunda rama");
+	System.out.println("Preparando el merge");
 	}
 }
